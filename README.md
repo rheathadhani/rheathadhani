@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
 <h3 align="center">A full stack web development enthusiast</h3>
 
-- 🌱 I’m currently learning the **MEVN stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rheathadhani?tab=repositories](https://github.com/rheathadhani?tab=repositories)
 
 - 📫 How to reach me **rheathadhani@gmail.com**
