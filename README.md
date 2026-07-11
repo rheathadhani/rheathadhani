@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
-<h3 align="center">A full stack web development enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rheathadhani?tab=repositories](https://github.com/rheathadhani?tab=repositories)
 
